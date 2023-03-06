@@ -1,4 +1,4 @@
-// Fetch all of the data from the table.
+// Fetch all of the data from the table. 
 SELECT *
 FROM students;
 
